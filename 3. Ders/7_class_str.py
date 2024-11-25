@@ -8,3 +8,4 @@ class sinif:
 
 nesne = sinif("Civa")
 print(nesne)
+
